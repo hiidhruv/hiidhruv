@@ -58,10 +58,6 @@ but mostly I just want the product to *feel* good.
     <td><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/discord.svg" width="16" /> Discord</td>
     <td><code>hiidhruv</code></td>
   </tr>
-  <tr>
-    <td><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/internet.svg" width="16" /> Site</td>
-    <td><a href="https://shapes.inc">shapes.inc</a></td>
-  </tr>
 </table>
 
 ---
