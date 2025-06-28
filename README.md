@@ -8,7 +8,7 @@
 
 <div style="flex: 1; min-width: 280px;">
 
-I'm a founding Engineer at <a href="https://shapes.inc">Shapes Inc</a>.  
+founding Engineer at <a href="https://shapes.inc">Shapes Inc</a>.  
 Right now, I'm pursuing a CS degree at some university.  
 
 I’m into a lot of things - cool software and gaming top the list.  
