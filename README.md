@@ -12,9 +12,9 @@ founding Engineer at <a href="https://shapes.inc">Shapes Inc</a>.
 Right now, I'm pursuing a CS degree at some university.  
 
 I’m into a lot of things - cool software and gaming top the list.  
-I’ve been building bots and working on web stuff for a while now.  
+I’ve been building cool tech(lol) for a while now.  
 Not everything needs to scale, some things are just fun to make.  
-Sometimes I’m designing, sometimes I’m deep in prompts,  
+Sometimes I’m designing, sometimes I’m asking cursor tp bring them to life - no joke,  
 but mostly I just want the product to *feel* good.
 
 </div>
@@ -63,10 +63,10 @@ but mostly I just want the product to *feel* good.
 ---
 
 <details>
-<summary>🌀 Hidden</summary>
+<summary>Click for surprize</summary>
 <br>
 <pre>
-This README doesn't really have an ending.
+in development
 </pre>
 
 <p align="center">
