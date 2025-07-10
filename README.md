@@ -13,6 +13,6 @@ but mostly I just want the product to feel good.
 </div>
 
 <div align="center">
-  <img src="https://i.dhrv.dev/2y5a4d.webp" alt="Banner" width="100%">
+  <img src="https://i.dhrv.dev/2y5a4d.webp" alt="Banner" width="100%" style="border-radius: 15px;">
 </div> 
 
