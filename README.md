@@ -1,6 +1,6 @@
 # Hii, I'm Dhruv
-founding engineer at shapes.inc
-i have worked on a lot of things you experience on shapes inc, some discord implemention, lots of backend and frontend wiring and apis and what not 
+founding engineer at shapes.inc \n
+i have worked on a lot of things you experience on shapes inc, some discord implemention, lots of backend and frontend wiring and apis and what not \n
 i also attending a remote college if that matters - a very prestigious one
 
 <div>
