@@ -1,6 +1,6 @@
 # Hii, I'm Dhruv
 founding Engineer at Shapes Inc.
-Right now, I'm pursuing a BS - Data Science degree at IIT Madras.
+Right now, I'm pursuing a BS - DS(remote) @ IIT Madras.
 
 I'm into a lot of things - cool software and gaming top the list.
 I've been building cool tech(lol) for a while now.
