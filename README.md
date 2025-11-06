@@ -1,12 +1,7 @@
 # Hii, I'm Dhruv
-founding Engineer at Shapes Inc.
-Right now, I'm pursuing a BS - DS(remote) @ IIT Madras.
-
-I'm into a lot of things - cool software and gaming top the list.
-I've been building cool tech(lol) for a while now.
-Not everything needs to scale, some things are just fun to make.
-Sometimes I'm designing, sometimes I'm asking cursor to bring them to life - no joke,
-but mostly I just want the product to feel good.
+founding engineer at shapes.inc
+i have worked on a lot of things you experience on shapes inc, some discord implemention, lots of backend and frontend wiring and apis and what not 
+i also attending a remote college if that matters - a very prestigious one
 
 <div>
   <img src="https://img.shields.io/badge/English-clean,%20fast,%20useful-10B981?style=for-the-badge&labelColor=1E293B&logo=markdown&logoColor=white"/>
